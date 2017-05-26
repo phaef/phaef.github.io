@@ -1,2 +1,2 @@
 # tghaefli.github.io
-[Link](tghaefli.github.io)
+[Link](https://tghaefli.github.io)
